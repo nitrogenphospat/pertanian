@@ -3,14 +3,14 @@
 
 ### Arsip ini dibuat oleh <i style="color:red;">Nitrogenphospat</i>
 
-Harap memperhatikan beberapa hal berikut :rofl:
+Harap memperhatikan beberapa hal berikut ⚠️:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
+- 🔭 &nbsp;Aku hanya ingin berusaha berbuat hal yang positif :wink:
+- 🌱 &nbsp;Kamu juga dapat membantu saya dalam merangkup materi-materi yang berkaitan dengan pertanian
+- 💬 &nbsp;Bebas berdiskusi dengan saya baik berdiskusi tentang pertanian maupun pemograman
+- 👨‍💻 &nbsp;Kamu dapat menghubungi saya melalui email nitrogenphospat@proton.me
+- ⚡ &nbsp;Saya menyukai dunia pemograman dan cyber. Pertanian adalah plan b ku 😄
+#### Sumber Daya Ini dapat Kamu Gunakan Maupun Dikembangkan
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -22,6 +22,7 @@ Harap memperhatikan beberapa hal berikut :rofl:
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+
 
 ### Mata Kuliah
 <details>
