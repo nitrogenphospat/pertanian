@@ -1,5 +1,15 @@
 ## Materi Kuliah Fakultas Pertanian Universitas Brawijaya
-### Milik Pribadi <i style="color:red;">Nitrogenphopat</i>
+<hr>
+
+### Arsip ini dibuat oleh <i style="color:red;">Nitrogenphospat</i>
+
+Harap memperhatikan beberapa hal berikut :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 ```
   ____                  ____                      
