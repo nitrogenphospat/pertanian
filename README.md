@@ -17,5 +17,5 @@
 <details>
   <summary><b>🌻 Teknologi Pupuk dan Pemupukan</b></summary>
   <br/>
-  <a href="https://github.com/nitrogenphospat/pertanian/">Minggu Pertama (<strong>Pendahuluan)</strong></a>
+  <a href="https://github.com/nitrogenphospat/pertanian/tpp/pendahuluan.md">📖 Minggu Pertama (<strong>Pendahuluan)</strong></a>
 </details>
