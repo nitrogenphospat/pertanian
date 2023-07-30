@@ -1,5 +1,6 @@
 ## Materi I (PENDAHULUAN)
-### Terminologi Pupuk
+
+### <div id="awe">Terminologi Pupuk</div>
 Pupuk adalah setiap zat yang ditambahkan ke tanah untuk menyediakan unsur-unsur yang dibutuhkan dalam nutrisi tanaman.
 <ul>
   <li>Bahan atau pembawa pupuk adalah apa saja zat yang mengandung satu atau lebih dari elemen penting</li>
@@ -12,7 +13,7 @@ oksida (6-24-24 misalnya).</li>
   <li><strong>Clear Liquid Fertilizer</strong> (Pupuk Cair Bening) merupakan salah satunya pupuk yang memiliki kandungan NPK dan bahan lainnya yang terlarut.</li>
 </ul>
 
-#### Konversi Faktor 💯
+#### <div id="konversi">Konversi Faktor 💯</div>
 <ol>
   <li>%P x 2,29 = <b>%P<sub>2</sub>O5</b></li>
   <li>%P<sub>2</sub>O5 x 0,44 = <b>%P</b></li>
@@ -21,7 +22,7 @@ oksida (6-24-24 misalnya).</li>
 </ol>
 <hr>
 
-### Pupuk Nitrogen 🌳
+### <div id="nitrogen">Pupuk Nitrogen 🌳
 Pupuk Nitrogen dapat terbuat dari <b>bahan alami (organi dan anorganik)</b> maupun dari <b>kimia sintetik</b>
 <details>
   <summary><b>Bahan Organik Alami 🏞️</b></summary>
@@ -76,101 +77,59 @@ Pupuk Nitrogen dapat terbuat dari <b>bahan alami (organi dan anorganik)</b> maup
 ### Pupuk Phospat 🌳
 #### Terminologi Kelarutan
 
+Berdasarkan Kelarutan Pupuk Phospat (<b>P</b>)
+<ul>
+  <li>P yang larut dalam air - senyawa pupuk larut dalam air</li>
+  <li>Sitrat larut P - senyawa yang larut dalam Amonium sitrat</li>
+  <li>Sitrat tidak larut P - bagian yang tidak larut dalam air dan amonium sitrat</li>
+  <li>Tersedia P - air dan larutan sitrat</li>
+</ul>
+
+#### Bahan Pupuk Phospat
+Phospat terbentuk dari beberapa bahan diantaranya 🪨 :
+<ul>
+  <li>Batu fosfat</li>
+  <li>Sumber semua pupuk P; Deposit ditemukan di seluruh dunia.</li>
+  <li>Batuan fosfat tidak larut; Oleh karena itu, itu tidak baik pupuk tanpa diolah. ⚠️</li>
+  <li>Aplikasi batuan fosfat pada tanah yang sangat asam memiliki telah terbukti menjadi lambat tersedia untuk tanaman.</li>
+  <li>Agar tersedia untuk batuan fosfat tanaman harus asam atau panas diproses.</li>
+  <li>Bahan phophate yang diberi perlakuan asam. Asam fosfat proses basah. Rock phosphate diperlakukan dengan asam sulfat (H2SO4) untuk menghasilkan asam fosfat ditambah kalsium fosfat (gipsum) dan gipsum adalah Dihapus. Ini kadang-kadang disebut "asam hijau" dan 54-56% P2O5. Asam ini digunakan untuk membuat triple superfosfat dan pupuk cair.</li>
+  <li>Asam superfosfat - (72% P2O5) - dibuat oleh memusatkan 54-56% melalui penguapan yang digunakan dalam pupuk cair.</li>
+  <li>Bahan fosfat yang diolah dengan asam, Superfosfat Biasa - Bereaksi asam sulfat dengan batu Fosfat.</li>
+  <li>20% tersedia P2O5 (85-90% larut dalam air) mengandung 8-10% sulfur sebagai gipsum (CaSO4) digunakan dalam pencampuran dan pencampuran pupuk dan diterapkan secara langsung</li>
+  <li>Superfosfat Terkonsentrasi (triple) - Dibuat dengan memperlakukan batu fosfat dengan asam fosfat.</li>
+  <li>46% P2O5 (86-90% larut dalam air). Mengandung sulfur yang sangat sedikit < 3% S</li>
+  <li>Digunakan dalam pencampuran dan pencampuran dan diterapkan secara langsung. Acid treated phosphate materials</li>
+  <li>Amonium Fosfat - diproduksi dengan amoniak asam fosfat. Monoammonium fosfat 11-48-0, Diammonium fosfat 18-46-0. Bahan-bahan ini memiliki sifat penyimpanan dan penanganan yang sangat baik, sangat air larut, kandungan nutrisi tinggi, butiran seragam, dan Ekonomis. Lainnya - Nitrofosfat - Asam nitrat dan batu Fosfat. Amonium polifosfat - Dibuat oleh menetralkan asam superfosfat dengan anhidrat amoniak.</li>
+</ul>
+<hr>
+
+### Pupuk kalium (K)
+<details>
+  <summary><b>Pembawa kalium 🔽</b></summary>
+  <div>Kalium klorida - (50-60% K).</div>
+  <div>kalium sulfat - (45-50% K).)</div>
+  <span><b>Konsep: Kalium mudah habis dengan penghapusan tinggi menghasilkan tanaman tanpa mempertahankan residu</b></span>
+</details>
+
+#### Pembuatan Pupuk K dan Propertinya
+<p>Ditemukan sebagai garam yang larut dalam air dalam deposit besar. Terutama terdiri dari KCl, KCl + NaCl atau K2SO4 +
+MgSO4. Garam ini ditambang dan disuling untuk menghasilkan K Pupuk.</p>
+
+#### Bahan Pupuk K
+<ol>
+  <li>KCl - muriate kalium 60% (90% dari konsumsi AS 🇺🇸 Benar-benar larut dalam air karena mengandung Cl)</li>
+  <li>K2SO4 - Kalium sulfat</li>
+  <li>K2SO4 - Potassium sulfate</li>
+  <li>menyediakan SO<sub>4</sub> serta K dan harus mengandung kurang dari 2,5%. Cl hanya digunakan pada tanaman sensitif Cl karena lebih mahal daripada Kcl</li>
+  <li>K2SO4 * MgSO4 - sulfate of magnesia</li>
+  <li>22% K2O, 11% Magnesium, 22% Sulfur</li>
+  <li>max Chloride 2.5 %</li>
+  <li>KNO3 potassium nitrate react with KCl with nitric acid</li>
+  <li>44% K2O 13% N</li>
+</ol>
+<hr>
 
 
-
-
-
-
-
-
-
-P yang larut dalam air - senyawa pupuk larut
-dalam air
-• Sitrat larut P - senyawa yang larut dalam
-Amonium sitrat
-• Sitrat tidak larut P - bagian yang tidak larut
-dalam air dan amonium sitrat
-• Tersedia P - air dan sitrat laru
-
-Bahan Pupuk
-• Batu fosfat
-• Sumber semua pupuk P; Deposit ditemukan di seluruh dunia.
-• Batuan fosfat tidak larut; Oleh karena itu, itu tidak baik
-pupuk tanpa diolah.
-• Aplikasi batuan fosfat pada tanah yang sangat asam memiliki
-telah terbukti menjadi lambat tersedia untuk tanaman. T
-• Agar tersedia untuk batuan fosfat tanaman
-harus asam atau panas diproses.
-
-Bahan Pupuk
-• Bahan phophate yang diberi perlakuan asam
-• Asam fosfat proses basah. Rock phosphate diperlakukan
-dengan asam sulfat (H2SO4) untuk menghasilkan asam fosfat
-ditambah kalsium fosfat (gipsum) dan gipsum adalah
-Dihapus. Ini kadang-kadang disebut "asam hijau" dan
-54-56% P2O5. Asam ini digunakan untuk membuat triple
-superfosfat dan pupuk cair.
-• Asam superfosfat - (72% P2O5) - dibuat oleh
-memusatkan 54-56% melalui penguapan yang digunakan dalam
-pupuk cair.
-• Bahan fosfat yang diolah dengan asam
-• Superfosfat Biasa - Bereaksi asam sulfat dengan batu
-Fosfat.
-• 20% tersedia P2O5 (85-90% larut dalam air)
-• mengandung 8-10% sulfur sebagai gipsum (CaSO4)
-• digunakan dalam pencampuran dan pencampuran pupuk dan diterapkan secara langsung
-• Superfosfat Terkonsentrasi (triple) - Dibuat dengan memperlakukan batu
-fosfat dengan asam fosfat.
-• 46% P2O5 (86-90% larut dalam air)
-• Mengandung sulfur yang sangat sedikit < 3% S
-• Digunakan dalam pencampuran dan pencampuran dan diterapkan secara langsung
-• Acid treated phosphate materials
-• Ammonium Phosphates - manufactured by ammoniating
-phosphoric acid. Monoammonium phosphate 11-48-0,
-Diammonium phosphate 18-46-0. These materials have
-excellent storage and handling properties, highly water
-soluble, high nutrient content, uniform granules, and are
-economical.
-• Others - Nitrophosphates - Nitric acid and rock
-phosphate. Ammonium polyphosphates - Made by
-neutralizing superphosphoric acid with anhydrous
-ammonia.
-
-Pupuk kalium
-• Pembawa kalium:
-• kalium klorida - (50-60% K).
-• kalium sulfat - (45-50% K). Sumber S
-di mana elemen kurang
-KONSEP
-Kalium mudah habis dengan penghapusan tinggi
-menghasilkan tanaman tanpa mempertahankan residu
-
-K pembuatan pupuk dan
-Properti
-• Ditemukan sebagai garam yang larut dalam air dalam deposit besar.
-• Terutama terdiri dari KCl, KCl + NaCl atau K2SO4 +
-MgSO4.
-• Garam ini ditambang dan disuling untuk menghasilkan K
-Pupuk.
-• Bahan Pupuk K
-• 1. KCl - muriate kalium 60%
-• 90% dari konsumsi AS
-• Benar-benar larut dalam air
-• mengandung Cl
-• 2. K2SO4 - Kalium sulfat
-
-K fertilizer manufacture and
-properties
-• K Fertilizer Materials
-• K2SO4 - Potassium sulfate
-• 50% K2O 18% Sulfur
-• provides SO4 as well as K and must contain less than 2.5% Cl
-• used only on Cl sensitive crops because it is more expensive than
-KCl
-• K2SO4 * MgSO4 - sulfate of magnesia
-• 22% K2O, 11% Magnesium, 22% Sulfur
-• max Chloride 2.5 %
-• KNO3 potassium nitrate react with KCl with nitric acid
-• 44% K2O 13% N
-• no Cl
+## Feel free to contact me :yum:
+<a href="mailto:nitrogenphospat@proton.me"><img src="https://img.shields.io/badge/Email-nitrogenphospat%40proton.me-purplelight"></a>
