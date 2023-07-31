@@ -28,5 +28,6 @@ Harap memperhatikan beberapa hal berikut ⚠️:
 <details>
   <summary><b>🌻 Teknologi Pupuk dan Pemupukan</b></summary>
   <br/>
-  <a href="https://github.com/nitrogenphospat/pertanian/blob/main/tpp/pendahuluan.md">📖 Minggu Pertama (<strong>Pendahuluan)</strong></a>
+  <a href="https://github.com/nitrogenphospat/pertanian/blob/main/tpp/pendahuluan.md">📖 Minggu Pertama (<strong>Pendahuluan)</strong></a><br>
+  <a href="https://github.com/nitrogenphospat/pertanian/blob/main/tpp/pupukOrganik.md">📖 Minggu Kedua (<strong>Pupuk Organik)</strong></a><br>
 </details>
