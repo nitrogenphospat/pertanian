@@ -128,8 +128,26 @@ MgSO4. Garam ini ditambang dan disuling untuk menghasilkan K Pupuk.</p>
   <li>KNO3 potassium nitrate react with KCl with nitric acid</li>
   <li>44% K2O 13% N</li>
 </ol>
-<hr>
 
+### Pupuk kalium (K)
+<details>
+  <summary><b>Tambahan ➕</b></summary>
+
+  ### Kelangkaan Pupuk Mestinya dapat diatasi
+  #### Kata Kunci: 
+  <p><b>Revolusi Hijau: </b>teknologi masukan tinggi, tidak berkelanjutan, pencemaran lingkungan, levelling off produksi, petani tidak berdaya, petani miskin, pembangunan pertanian gagal, tergantung LN</p>
+  <p><b>Pertanian Berkelanjutan: </b>teknologi masukan rendah, sistem alam, daur-ulang, prinsip keseimbangan, teknologi tepat guna berbasis sistem alam, di tingkat petani, petani berdaya, petani hidup kecukupan, sehat, pembangunan pertanian baik, tidak tergantung LN</p>
+  <p><b>Masalah Kunci: </b>Posisi tawar petani 'lemah' karena selalu bergantung pada pemerintah dan pabrik pupuk; dpl petani tidak mampu (mau?) memproduksi pupuk untuk memenuhi kebutuhan sendiri, padahal di sekitarnya berlimpah sumber pupuk alami, di samping teknologi pembuatan pupuk sudah ada</p>
+  <p><b>Alternatif Solusi: </b>Penggunaan SDA untuk meningkatkan SDM Petani dengan bantuan Teknologi (back to nature with technology to enhanced the farmer's bergaining position)</p>
+  
+  #### Program:
+  <p><b>Sumber Pupuk Alami: </b>batuan induk (BFA, zeolit, kapur kalsit, Dolomit, Leonardit, Salpeter); bahan organik (humus, kompos, seresah, pupuk hijau, kotoran kelelawar, kotoran burung walet, kotoran binatang liar).</p>
+  <p><b>Pembuatan Pupuk Mandiri: </b>prinsip mineralisasi, dekomposisi, transformasi; metode pembuatan kompos/bahan mineral; metode pencampuran bahan; standardisasi, sertifikasi, packaging/labelling.</p>
+  <p><b>Sistem Pengelolaan Terpadu: </b>budidaya, perharaan, pengendalian OPT; pertanian - kehutanan - peternakan - perikanan.</p>
+  <p><b>Sistem Masukan Rendah: </b>daur ulang sisa panen, masukan BO sekitar lahan, masukan sisa ternak. penanaman ppk hijau</p>
+  <p><b>Komposisasi Tingkat Petani: </b>materi kompos, metode pengomposan, penggunaan 'biofertilizer', penggunaan ZPT/enzim/antibiotik</p>
+</details>
+<hr>
 
 ## Feel free to contact me :yum:
 <a href="mailto:nitrogenphospat@proton.me"><img src="https://img.shields.io/badge/Email-nitrogenphospat%40proton.me-purplelight"></a>
